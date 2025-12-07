@@ -78,7 +78,7 @@ http://localhost:5000
 
 - James Martin
 - Jonathan Brigain
-- Keisha Hunley
+- Keisha Hunley-Jenkins
 - Michael Friedman
 - Nick Gillis
 - Richard Hughes
